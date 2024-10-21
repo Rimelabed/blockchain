@@ -1,5 +1,5 @@
 # blockchain
-Blockchain_demo
+Blockchain_demo exemple d'exécution du code
 
 C:\Users\rimel\blockchain>node main.js
 {
